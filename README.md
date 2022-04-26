@@ -11,8 +11,8 @@ HTimeParser = htime.HTimeParser()
 time = HTimeParser.parseLongTime("April 25th, 2022 2:00pm EDT")
 ```
 ### Installation 
-```py
+```cmd
 pip install htime
 ```
 ### Issues
-Please open an issue report if you fsce any issues
+Please open an issue report if you face any issues
