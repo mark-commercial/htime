@@ -1,7 +1,7 @@
 """
 Converter to convert date packed strings to Discord formattable times.
 
-@author: AstroWX
+@author: mark-commercial
 @name: htime
 @version: 0.0.4
 """
